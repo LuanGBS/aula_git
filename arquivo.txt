@@ -1,2 +1,3 @@
-Este é um exemplo de arquivo.
-Adicionando uma nova linha.
+*.log
+*.tmp
+node_modules/
